@@ -109,3 +109,4 @@ The above sponsor(s) are supporting Jeff Geerling on [GitHub Sponsors](https://g
 [![Ansible for DevOps Cover](https://s3.amazonaws.com/titlepages.leanpub.com/ansible-for-devops/medium)](https://www.ansiblefordevops.com/)
 
 Buy [Ansible for DevOps](https://www.ansiblefordevops.com/) for your e-reader or in paperback format.
+.
